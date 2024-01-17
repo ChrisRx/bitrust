@@ -1,5 +1,3 @@
-#![feature(file_set_times)]
-
 extern crate scopeguard;
 
 use std::env;
